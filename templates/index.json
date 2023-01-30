@@ -1,0 +1,260 @@
+{
+  "sections": {
+    "2bca09db-ee78-41a6-9f6a-50b2397668c0": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17778746523968__2bca09db-ee78-41a6-9f6a-50b2397668c0-1674798404677f4413-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RepublicDay-Sale_-v2Desktop_1512x_9e5b69fe-2595-4605-a738-9abc59313ab1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17778746523968__2bca09db-ee78-41a6-9f6a-50b2397668c0-1674798404677f4413-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "f1f73842-535f-4301-bcfd-2f9d85274413": {
+          "type": "button",
+          "settings": {
+            "button_label": "shop all bestsellers",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>athleisure wear for all body types<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>sustainable products designed keeping every shape, size, and color in mind<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f1f73842-535f-4301-bcfd-2f9d85274413",
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/celeb4_1024x1024_c283b641-9f61-401c-949b-7f48ce4b99ab.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/celeb2_1024x1024_e5ed757a-7744-45c4-9f3d-bdbf80a1f6d2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/celeb6_1024x1024_ddc6177c-749b-4ca6-939c-36846e7f155f.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b90bd15e-e6e1-43fb-9a1f-b40550d194f8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ceelb7_1024x1024_bf9f4608-d82f-412d-b5e7-cf9f7c81f831.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2508e7c8-ec26-4250-9963-43b892231a30": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/celeb3_1024x1024_0f6b670e-60e2-426b-ae36-ab530bb1b2cc.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "145e92c1-20e4-4c9d-9075-6687f1e5f837": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/celeb5_1024x1024_dc66a9a1-9a58-43d1-a880-21eb1d379207.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7053827b-5054-492b-ae1c-cf55a4bda793": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/celeb1_1024x1024_e7dc0e05-a460-426c-8dc2-fae1ea461f37.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "612a5159-e398-47c6-8d74-cc5e274220a3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/celeb8_1024x1024_d838c7fa-2ada-45c1-8ae7-9ed640ccf65a.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "b90bd15e-e6e1-43fb-9a1f-b40550d194f8",
+        "2508e7c8-ec26-4250-9963-43b892231a30",
+        "145e92c1-20e4-4c9d-9075-6687f1e5f837",
+        "7053827b-5054-492b-ae1c-cf55a4bda793",
+        "612a5159-e398-47c6-8d74-cc5e274220a3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6f8cce08-b2ee-4424-bc72-749820f9d9f9": {
+      "type": "newsletter",
+      "blocks": {
+        "template--17778746523968__6f8cce08-b2ee-4424-bc72-749820f9d9f9-16747987925eed7e40-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up and get 10% off",
+            "heading_size": "h1"
+          }
+        },
+        "template--17778746523968__6f8cce08-b2ee-4424-bc72-749820f9d9f9-16747987925eed7e40-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>hey tribe, sign up to get an insider view on everything aastey!<\/p>"
+          }
+        },
+        "template--17778746523968__6f8cce08-b2ee-4424-bc72-749820f9d9f9-16747987925eed7e40-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17778746523968__6f8cce08-b2ee-4424-bc72-749820f9d9f9-16747987925eed7e40-0",
+        "template--17778746523968__6f8cce08-b2ee-4424-bc72-749820f9d9f9-16747987925eed7e40-1",
+        "template--17778746523968__6f8cce08-b2ee-4424-bc72-749820f9d9f9-16747987925eed7e40-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "2bca09db-ee78-41a6-9f6a-50b2397668c0",
+    "rich_text",
+    "featured_collection",
+    "multicolumn",
+    "6f8cce08-b2ee-4424-bc72-749820f9d9f9"
+  ]
+}
