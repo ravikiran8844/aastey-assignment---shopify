@@ -111,6 +111,77 @@
         "padding_bottom": 12
       }
     },
+    "a3ec6391-946a-4bd9-8cca-24448cb77df6": {
+      "type": "aastey-custom-section",
+      "blocks": {
+        "e0c49ace-3b1e-4e6d-afdf-b52e697b07b5": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ product.metafields.custom.asstey_promotion_product_1_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ product.metafields.custom.asstey_promotion_product_1_heading_text.value }}",
+            "subheading": "{{ product.metafields.custom.asstey_promotion_product_1_subheading_text.value }}",
+            "link": "{{ product.metafields.custom.asstey_promotion_product_1_link_url.value }}",
+            "link-text": "{{ product.metafields.custom.asstey_promotion_product_1_subheading_link_text.value }}"
+          }
+        },
+        "73b27adb-760d-4876-b9b9-87a4e10bfa3c": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ product.metafields.custom.asstey_promotion_product_2_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ product.metafields.custom.asstey_promotion_product_2_heading.value }}",
+            "subheading": "{{ product.metafields.custom.asstey_promotion_product_2_subheading.value }}",
+            "link": "{{ product.metafields.custom.asstey_promotion_product_2_link_url.value }}",
+            "link-text": "{{ product.metafields.custom.asstey_promotion_product_2_link_text.value }}"
+          }
+        },
+        "204161ec-84f5-4064-8a24-00786d4dfdcb": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ product.metafields.custom.asstey_promotion_product_3_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ product.metafields.custom.asstey_promotion_product_3_heading.value }}",
+            "subheading": "{{ product.metafields.custom.asstey_promotion_product_3_subheading.value }}",
+            "link": "{{ product.metafields.custom.asstey_promotion_product_3_link_url.value }}",
+            "link-text": "{{ product.metafields.custom.asstey_promotion_product_3_link_text.value }}"
+          }
+        },
+        "ebd0626d-92c0-4cd8-bb2b-11d245d23176": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ product.metafields.custom.asstey_promotion_product_4_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ product.metafields.custom.asstey_promotion_product_4_heading.value }}",
+            "subheading": "{{ product.metafields.custom.asstey_promotion_product_4_subheading.value }}",
+            "link": "{{ product.metafields.custom.asstey_promotion_product_4_link_url.value }}",
+            "link-text": "{{ product.metafields.custom.asstey_promotion_product_4_link_text.value }}"
+          }
+        },
+        "0b63e886-6149-45e9-b8ca-656f8a87867e": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ product.metafields.custom.asstey_promotion_product_5_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ product.metafields.custom.asstey_promotion_product_5_heading.value }}",
+            "subheading": "{{ product.metafields.custom.asstey_promotion_product_5_subheading.value }}",
+            "link": "{{ product.metafields.custom.asstey_promotion_product_5_link_url.value }}",
+            "link-text": "{{ product.metafields.custom.asstey_promotion_product_5_link_text.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "e0c49ace-3b1e-4e6d-afdf-b52e697b07b5",
+        "73b27adb-760d-4876-b9b9-87a4e10bfa3c",
+        "204161ec-84f5-4064-8a24-00786d4dfdcb",
+        "ebd0626d-92c0-4cd8-bb2b-11d245d23176",
+        "0b63e886-6149-45e9-b8ca-656f8a87867e"
+      ],
+      "settings": {
+        "heading": "Browse Our Collections",
+        "subheading": "Check our Best Selleing Products"
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -209,6 +280,7 @@
   },
   "order": [
     "main",
+    "a3ec6391-946a-4bd9-8cca-24448cb77df6",
     "image-with-text",
     "multicolumn",
     "product-recommendations"
