@@ -25,10 +25,82 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "33f770d7-29a2-4f0c-afeb-30c54add7461": {
+      "type": "aastey-custom-section",
+      "blocks": {
+        "24badfa6-9cbe-44c1-a65b-76b5cdbd4d63": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ collection.metafields.custom.asstey_promotion_product_1_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ collection.metafields.custom.asstey_promotion_product_1_heading.value }}",
+            "subheading": "{{ collection.metafields.custom.asstey_promotion_product_1_subheading.value }}",
+            "link": "{{ collection.metafields.custom.asstey_promotion_product_1_link_url.value }}",
+            "link-text": "{{ collection.metafields.custom.asstey_promotion_product_1_link_text.value }}"
+          }
+        },
+        "c6263571-06f1-4a94-ba11-bfe623a5b398": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ collection.metafields.custom.asstey_promotion_product_2_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ collection.metafields.custom.asstey_promotion_product_2_heading.value }}",
+            "subheading": "{{ collection.metafields.custom.asstey_promotion_product_2_subheading.value }}",
+            "link": "{{ collection.metafields.custom.asstey_promotion_product_2_link_url.value }}",
+            "link-text": "{{ collection.metafields.custom.asstey_promotion_product_2_link_text.value }}"
+          }
+        },
+        "924afded-50fc-475d-bd05-e773d0be0724": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ collection.metafields.custom.asstey_promotion_product_3_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ collection.metafields.custom.asstey_promotion_product_3_heading.value }}",
+            "subheading": "{{ collection.metafields.custom.asstey_promotion_product_3_subheading.value }}",
+            "link": "{{ collection.metafields.custom.asstey_promotion_product_3_link_url.value }}",
+            "link-text": "{{ collection.metafields.custom.asstey_promotion_product_3_link_text.value }}"
+          }
+        },
+        "105e157c-542e-42c8-b2fa-9c435872f728": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ collection.metafields.custom.asstey_promotion_product_4_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ collection.metafields.custom.asstey_promotion_product_4_heading.value }}",
+            "subheading": "{{ collection.metafields.custom.asstey_promotion_product_4_subheading.value }}",
+            "link": "{{ collection.metafields.custom.asstey_promotion_product_4_link_url.value }}",
+            "link-text": "{{ collection.metafields.custom.asstey_promotion_product_4_link_text.value }}"
+          }
+        },
+        "73f2bfc9-9adc-403b-a586-9de38b5ee51c": {
+          "type": "image-text-block",
+          "settings": {
+            "image": "{{ collection.metafields.custom.asstey_promotion_product_5_image.value }}",
+            "color": "#ffffff",
+            "heading": "{{ collection.metafields.custom.asstey_promotion_product_5_heading.value }}",
+            "subheading": "{{ collection.metafields.custom.asstey_promotion_product_5_subheading.value }}",
+            "link": "{{ collection.metafields.custom.asstey_promotion_product_5_link_url.value }}",
+            "link-text": "{{ collection.metafields.custom.asstey_promotion_product_5_link_text.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "24badfa6-9cbe-44c1-a65b-76b5cdbd4d63",
+        "c6263571-06f1-4a94-ba11-bfe623a5b398",
+        "924afded-50fc-475d-bd05-e773d0be0724",
+        "105e157c-542e-42c8-b2fa-9c435872f728",
+        "73f2bfc9-9adc-403b-a586-9de38b5ee51c"
+      ],
+      "settings": {
+        "heading": "You May Like",
+        "subheading": "Best Selling Products"
+      }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "33f770d7-29a2-4f0c-afeb-30c54add7461"
   ]
 }
